@@ -24,8 +24,19 @@ This project demonstrates a sales dashboard built using Power BI to analyze mobi
 - Data Modeling and Relationships
 - Power BI Visualizations and Filters
 
-## Learning Highlights
+## 📸 Dashboard Previews
 
+### 🔹 Full Dashboard
+![Dashboard](./Dashboard.png)
+
+### 🔹 Month-to-Date Report
+![MTD Report](https://github.com/user-attachments/assets/fc105e19-7564-4af7-86e2-14a0b4bca2fe)
+
+
+### 🔹 Same Period Last Year
+![Same Period Last Year](https://github.com/user-attachments/assets/7dc7903a-77e9-489e-bba0-840527ef7437)
+
+## Learning Highlights
 - Designed a user-friendly sales dashboard for business reporting
 - Applied DAX to create time-based calculations
 - Used visuals to simplify complex data insights
